@@ -83,7 +83,7 @@
     <string name="rebooting">Restarting application…</string>
     <string name="pref_language">Language</string>
     <string name="pref_lang_auto">Auto</string>
-    <string name="about_create_by">Create By Zhufucomcom</string>
+    <string name="about_create_by">Create By zhufucdev</string>
     <string name="about_gpl_license">Licensed under the GPL-v3 Open Source license.</string>
     <string name="about_made_in_china">Made In China</string>
     <string name="about_visit">Visit…</string>
@@ -102,7 +102,7 @@
     <string name="details_card_basic_info_title">Basic Information</string>
     <string name="details_card_basic_info_size">Textures Size</string>
     <string name="details_card_basic_info_location">Location</string>
-    <string name="copied">Cpoied</string>
+    <string name="copied">Copied</string>
     <string name="icon_edit">Icon Edit</string>
     <string name="icon_edit_high_res_title">High Resolution</string>
     <string name="icon_edit_high_res_subtitle">It\'s meaningless to give a icon of hight resolution on Minecraft.Would you want to compress it?</string>
